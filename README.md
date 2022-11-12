@@ -9,5 +9,6 @@ abenojardev/abenojardev is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abenojardev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abenojardev&show_icons=true&locale=en&layout=compact">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abenojardev?theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abenojardev&show_icons=true&locale=en&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=onetwothreeneth&show_icons=true&theme=radical">
